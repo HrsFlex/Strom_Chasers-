@@ -32,7 +32,7 @@ def get_gemini_response(question):
 
 st.set_page_config(page_title="Advanced ChatBot")
 
-st.header("StromBot")
+st.header("Ask Storm....")
 
 input=st.text_input("Input: ",key="input")
 
