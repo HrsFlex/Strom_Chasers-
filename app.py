@@ -30,7 +30,7 @@ def get_gemini_response(question):
 
 
 
-st.set_page_config(page_title="Advance ChatBot")
+st.set_page_config(page_title="Advanced ChatBot")
 
 st.header("StromBot")
 
